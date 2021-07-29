@@ -54,7 +54,7 @@ public class UserController {
 		Users user = usersRepository.getById(userid);
 
 		final String username = "iknowiamawesome1234@gmail.com";
-		final String password = "nancy1036";
+		final String password = "*********";
 
 		Properties prop = new Properties();
 		
